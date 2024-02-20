@@ -216,7 +216,7 @@ class MainPage extends StatelessWidget {
             cardTitle: "Text to Speech",
             cardDescription: "Convert text into audio and listen to it",
             cardImage: AssetImage(audioBook),
-            destinationScreen: TextToSpeech(),
+            destinationScreen: const TextToSpeech(),
           ),
         ],
       ),
