@@ -1,4 +1,4 @@
-# reader_app
+# TextSnap OCR
 
 A new Flutter project.
 
